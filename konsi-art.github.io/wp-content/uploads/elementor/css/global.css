@@ -1108,3 +1108,6 @@
 .elementor-widget-search.e-focus {
     --e-search-input-color: var( --e-global-color-text);
 }
+.elementor-location-header {
+    background-color: #0000FF !important; /* Changing background to blue */
+}
